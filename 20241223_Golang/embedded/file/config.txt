@@ -1,0 +1,2 @@
+DB_VERSION=2.0.0
+DB_NAME=myyapp
